@@ -1,0 +1,12 @@
+R
+We just flushed and got cwidth
+We just flushed and got cwidth
+We just flushed and got cwidth
+We just flushed and got cwidth
+We just flushed and got cwidth
+We just flushed and got cwidth
+We just flushed and got cwidth
+We just flushed and got cwidth
+Exception in thread "main" java.lang.NullPointerException: Cannot invoke "String.charAt(int)" because "<local4>" is null
+	at LZW.expand(LZW.java:61)
+	at LZW.main(LZW.java:73)
